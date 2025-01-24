@@ -6,6 +6,8 @@ I am a developer based out of the humble state of California working primarily w
 Lots of experience in modding with minecraft fabric,
 as well with creating c++ applications and mods from scratch
 
+basic experience in webdev - nodejs javascript nextjs react html 
+
 https://store.steampowered.com/app/3007160/Thors_Macros/
 
 <h3 align="left">Languages and Tools:</h3>
