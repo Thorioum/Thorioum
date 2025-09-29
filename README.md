@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&duration=15000&pause=1000&color=F72560&repeat=false&width=435&lines=greetings%2C+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&duration=15000&pause=1000&color=F72560&repeat=true&width=435&lines=greetings%2C+user)](https://git.io/typing-svg) 
 <img style="display: block; margin: auto;" src="https://github.com/user-attachments/assets/3b436f63-1fa5-40cc-ab93-e43a9b1f205f">
 
 My alias is Thorioum, developing my ideas passionately for 5+ years. <br/>
