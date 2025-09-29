@@ -11,6 +11,7 @@ My skills include:<br/>
 - Smart and Focused debugging
 - Both creating software from scratch and developing it.
 - Versatile programming language understanding
+- Basic Web Development
 - Advanced Minecraft modding</br>
 
 View my website and blog at https://thorioum.net </br>
