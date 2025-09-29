@@ -1,7 +1,7 @@
 ## greetings
 
 I am a developer based out of the humble state of California working primarily with software development, modding, and reverse engineering
--- Developing my ideas passionately for 4+ years
+-- Developing my ideas passionately for 5+ years
 
 Lots of experience in modding with minecraft fabric,
 as well with creating c++ applications and mods from scratch </br>
