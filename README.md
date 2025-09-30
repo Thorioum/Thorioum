@@ -16,7 +16,7 @@ My skills include:<br/>
 
 View my website and blog at https://thorioum.net </br>
 View a variety of my public projects on this github. </br>
-I am currently for hire, and taking commisions for projects
+I do take commisions for projects
 
 Current OS:<br/>
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)<br/>
