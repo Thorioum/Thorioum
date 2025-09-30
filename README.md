@@ -8,10 +8,10 @@ I've chosen the niche of software and security, and spend my time dabbling in so
 My skills include:<br/>
 - Windows binary reverse engineering
 - Efficient problem solving
-- Smart and Focused debugging
+- Smart and focused debugging
 - Both creating software from scratch and developing it.
 - Versatile programming language understanding
-- Basic Web Development
+- Basic web development
 - Advanced Minecraft modding</br>
 
 View my website and blog at https://thorioum.net </br>
