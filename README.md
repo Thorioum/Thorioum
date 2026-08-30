@@ -13,6 +13,7 @@ My skills include:<br/>
 - Versatile programming language understanding
 - Basic web development
 - Advanced Minecraft modding</br>
+- Some Roblox modding
 
 View my website and blog at https://thorioum.net </br>
 View a variety of my public projects on this github. </br>
