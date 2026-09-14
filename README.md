@@ -50,7 +50,5 @@ Contact me using the following
 - Matrix: https://matrix.to/#/@tlio1:matrix.org
 - Email: thorioum@thorioum.net
 
-![Thorioum's GitHub stats](https://github-readme-stats.vercel.app/api?username=thorioum&show_icons=true&theme=radical)
-
 ### Consider checking out my peers:
 [![0x127](https://github.com/00x127.png?size=80)](https://github.com/00x127)
